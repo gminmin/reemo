@@ -1,2 +1,6 @@
-<h1 > REEMO
-Google의 Mediapipe와 게임엔진 Unity를 이용하여 만든 모션캡처 프로그램입니다.
+<h1 > REEMO </h1>
+<h6>EN</h6>
+reemo is a live motion capture Tool. it uses Google Mediapipe and Unity.
+<br></br>
+<h6>KR</h6>
+reemo는 실시간 모션캡처 도구입니다. reemo는 Google Mediapipe와 Unity를 사용합니다.
