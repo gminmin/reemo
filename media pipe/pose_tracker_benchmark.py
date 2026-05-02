@@ -175,3 +175,5 @@ input("\nPress ENTER to close...")
 cap.release()
 cv2.destroyAllWindows()
 sock.close()
+
+# --- it's reemo! ---
